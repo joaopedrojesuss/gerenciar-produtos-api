@@ -5,17 +5,21 @@ Inclui validação de dados, documentação Swagger/OpenAPI, testes automatizado
 
 ## 📋 Índice
 
-- [Características](#características)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação e Configuração](#instalação-e-configuração)
-- [Execução da Aplicação](#execução-da-aplicação)
-- [Documentação da API](#documentação-da-api)
-- [Endpoints](#endpoints)
-- [Exemplos de Uso](#exemplos-de-uso)
-- [Testes](#testes)
-- [Configuração do Banco de Dados](#configuração-do-banco-de-dados)
-- [Estrutura do Projeto](#estrutura-do-projeto)
+- Características
+- Tecnologias Utilizadas
+- Pré-requisitos
+- Instalação e Configuração
+- Execução da Aplicação
+- Documentação da API
+- Endpoints
+- Exemplos de Uso
+- Testes
+- Configuração do Banco de Dados
+- Estrutura do Projeto
+- Configurações Importantes
+- Licença
+- Autor
+- Contato
 
 
 ## ✨ Características
@@ -266,4 +270,4 @@ Desenvolvido por João Pedro de Jesus, para processo seletivo.
 ## 📞 Contato
 
 - Email: joaopedrojesusilva@outlook.com
-- LinkedIn: [[Seu LinkedIn]](https://www.linkedin.com/in/joao-pedrojesus/)
+- LinkedIn: www.linkedin.com/in/joao-pedrojesus/
