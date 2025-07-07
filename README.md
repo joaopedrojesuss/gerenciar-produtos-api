@@ -64,7 +64,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 ### 1. Clone o repositório
 
 ```bash
-[git clone https://github.com/seu-usuario/gerenciar-produtos.git](https://github.com/joaopedrojesuss/gerenciar-produtos-api.git)
+git clone https://github.com/seu-usuario/gerenciar-produtos.git
 cd gerenciar-produtos
 ```
 
